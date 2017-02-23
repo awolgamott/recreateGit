@@ -1,0 +1,76 @@
+html{
+	font-size: 9px;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1{
+	font-size: 4rem;
+	margin: 0;
+}
+
+h2{
+	font-size: 3.5rem;
+	margin: 0;
+}
+
+h3{
+	font-size: 3rem;
+	margin: 0;
+}
+
+h4{
+	font-size: 2.5rem;
+	margin: 0;
+}
+
+p,a,span,li{
+	font-size: 2rem;
+	margin: 0;
+}
+
+.pageContainer{
+	margin: 0 auto;
+	width: 1024px;
+}
+
+.repoContainer{
+	width: 67%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.profileContainer{
+	padding:2rem;
+	background: white;
+	color: black;
+	width:300px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+img{
+max-width: 100%;
+}
+
+header{
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+h2.repoName{
+	color: #4078C0;
+}
+h3.repoDescription{
+	font-size: 2rem;
+}
+p.language, p.updated{
+	display: inline-block;
+	margin-right: 30px;
+}
+.repo{
+	border-bottom: 1px solid grey;
+}

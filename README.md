@@ -4,7 +4,7 @@ Recreation of the HTML and CSS on the Github tab page, and using two AJAX reques
 
 https://awolgamott.github.io/recreateGit/
 
-##Resources
+## Resources
 
 profile: https://api.github.com/users/<username>
 repos: https://api.github.com/users/<username>/repos
